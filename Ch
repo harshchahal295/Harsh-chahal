@@ -1,0 +1,47 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harsh Chahal - Personal Website</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f5; color: #333; }
+        header { background: #4CAF50; color: white; padding: 20px 0; text-align: center; }
+        nav a { margin: 0 15px; color: white; text-decoration: none; font-weight: bold; }
+        section { padding: 50px 20px; max-width: 800px; margin: auto; }
+        h2 { color: #4CAF50; }
+        .contact a { color: #4CAF50; text-decoration: none; }
+        footer { text-align: center; padding: 20px; background: #ddd; margin-top: 50px; }
+        .skill { background: #4CAF50; color: white; display: inline-block; padding: 5px 10px; margin: 5px; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Harsh Chahal</h1>
+        <p>Student | Armwrestling Enthusiast</p>
+        <nav>
+            <a href="#about">About Me</a>
+            <a href="#skills">Skills</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header><section id="about">
+    <h2>About Me</h2>
+    <p>Hi! I am Harsh Chahal. I am a student, my father is a farmer, and I belong to the Jaat community. I love armwrestling and staying active.</p>
+</section>
+
+<section id="skills">
+    <h2>Skills</h2>
+    <span class="skill">Armwrestling</span>
+</section>
+
+<section id="contact">
+    <h2>Contact Me</h2>
+    <p>Phone: <a href="tel:+918957199100">8957199100</a></p>
+    <p>Instagram: <a href="https://www.instagram.com/harsh.chahal8/" target="_blank">@harsh.chahal8</a></p>
+</section>
+
+<footer>
+    &copy; 2025 Harsh Chahal
+</footer>
+
+</body>
+</html>
